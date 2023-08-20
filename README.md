@@ -1,7 +1,3 @@
-<style>
-details summary > * {  display: inline; }
-</style>
-
 # Intelligenza-Artificiale
 
 ## Descrizione
