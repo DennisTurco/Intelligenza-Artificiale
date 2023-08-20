@@ -6,8 +6,8 @@
 
 ## Autori
 
-- [@DennisTurco](https://www.github.com/DennisTurco)
-- [@Davoleo](https://github.com/Davoleo)
+- [DennisTurco](https://www.github.com/DennisTurco)
+- [Davoleo](https://github.com/Davoleo)
 
 ## Supporto
 
