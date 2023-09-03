@@ -1,17 +1,18 @@
-/*
-[5,8,9] - [1,2,3,4,5,6,7,8,9]
-
-[2,3] - [3,2,1]
-[2,3] - 
-*/
-
+% Test
+%   sottolista(S, [1,2,3]).
+%       S = []
+%       S = [1]
+%       S = [2]
+%       S = [3]
+%       S = [1, 2]
+%       S = [2, 3]
+%       S = [1, 2, 3]
 
 sottolista([], _).
 
 sottolista([SubHead|SubTail], Main) :-
     sequence([SubHead|SubTail], Main),
     sottolista(SubTail, Main).
-    
 
 sequence([], _).
 
