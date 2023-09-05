@@ -15,6 +15,6 @@ Si costruiscono tramite l'applicazione delle seguenti regole di sintassi, per og
 Permette di interpretare costanti, simboli di funzione e simboli di predicato assegnandoci un valore del dominio del linguaggio.
 
 
-### Descrivere brevement cosa si intende per assgnazione
+### Descrivere brevement cosa si intende per assegnazione
 
 L'assegnazione è una funzione che prende in input un simbolo di variabile e restituisce un valore del Dominio del linguaggio; permette di effettuare la sostituzione delle varie variabili per testare se una proposizione è vera o no oppure di trovare tutti le assegnazioni che permettono alla proposizione di diventare vera.
