@@ -6,6 +6,11 @@ Questa repository è pensata come mezzo per aiutare gli studenti nel corso di In
 Le soluzioni proposte potrebbero essere sbagliate, quindi consigliamo di controllare e non prendere per buono tutto ciò che è scritto.
 Inoltre, non esitate a fare "issues" o "pull request" in caso vogliate contribuire inserendo suluzioni o aggiungendo informazioni che possano essere utili a tutti.
 
+**Nota Bene**: i riassunti proposti non sono sufficenti per studiare la parte teorica, ma sono pensati unicamente come mezzo di ripasso. 
+
+## Links
+* [Prolog tutorial](https://www.youtube.com/watch?v=FE1d5vauTlU&list=PLm8dSOaqLPHLMJbFJ4HbEVMsj9o8wfQ1j&ab_channel=LogicLambda)
+
 <details>
 <summary><h2>Struttura Cartelle</h2></summary>
 
